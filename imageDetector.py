@@ -104,5 +104,5 @@ def train_gan(generator, discriminator, gan, epochs, batch_size=128, checkpoint_
 # Start Training
 train_gan(generator, discriminator, gan, epochs=10000, batch_size=128)
 
-# Function to Classify Real vs. Fake Images
+
 
